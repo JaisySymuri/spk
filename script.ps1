@@ -1,0 +1,1 @@
+(Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned) ; (& c:\Users\bests\Downloads\SPK\.venv\Scripts\Activate.ps1)

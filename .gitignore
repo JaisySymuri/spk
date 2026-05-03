@@ -119,3 +119,5 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.swp
+
+dataset/models/

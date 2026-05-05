@@ -1,16 +1,51 @@
-This is a simple Flask web application that calculates a student's performance score using the **Simple Additive Weighting (SAW)** method.
+# Aplikasi Penilaian Performa Mahasiswa (Flask)
+
+Ini adalah aplikasi web sederhana berbasis Flask yang digunakan untuk menghitung skor performa mahasiswa menggunakan metode **Simple Additive Weighting (SAW)**.
 
 ---
 
-## 📦 Requirements
+## Persyaratan
 
-Make sure you have:
+Pastikan Anda sudah memiliki:
 
-- Python 3.8+
-- pip
+- Python 3.8 atau lebih baru
+- `pip`
 
-Install dependencies:
+Install dependency dengan perintah berikut:
 
 ```bash
 pip install flask
 ```
+
+---
+
+## Cara Menjalankan Aplikasi
+
+1. Buka Terminal atau PowerShell.
+2. Masuk ke folder project:
+
+```bash
+cd nama-folder-project
+```
+
+3. Jalankan aplikasi:
+
+```bash
+python app.py
+```
+
+4. Buka browser, lalu akses:
+
+```text
+http://127.0.0.1:5000/
+```
+
+---
+
+## Dibuat Oleh
+
+**Kelompok 1:**
+
+- FAHMI ABDUL WAHID - 231011400582
+- JAISY MUHAMMAD ALGIFARI - 231011400253
+- MUHAMMAD RAFLI ARYANSYAH - 231011401531
